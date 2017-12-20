@@ -66,20 +66,6 @@
 </head>
 
 <body onload="prettyPrint();">
-<div class="navbar navbar-fixed-top">
-  <div class="navbar-inner">
-    <div class="container">
-      <a href="/" class="brand">Spring MVC and Hibernate Template</a>
-      <!--
-      IMPORTANT:
-      This is Heroku specific markup. Remove to customize.
-      -->
-      <a href="/" class="brand" id="heroku">by <strong>heroku</strong></a>
-      <!-- /// -->
-    </div>
-  </div>
-</div>
-
 <div class="container" id="getting-started">
 <div class="row">
 <div class="span8 offset2">
